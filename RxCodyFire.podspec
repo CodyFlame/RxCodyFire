@@ -39,4 +39,6 @@ Pod::Spec.new do |s|
   s.dependency 'CodyFire'
   s.dependency 'RxSwift', '~> 4.3.1'
   s.dependency 'RxCocoa', '~> 4.3.1'
+
+  s.swift_version = '4.1.2'
 end
