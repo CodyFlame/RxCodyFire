@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RxCodyFire_Example' do
+  pod 'RxCodyFire', :path => '../'
+
+  target 'RxCodyFire_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
