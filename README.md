@@ -4,14 +4,9 @@
 [![License](https://img.shields.io/cocoapods/l/RxCodyFire.svg?style=flat)](https://cocoapods.org/pods/RxCodyFire)
 [![Platform](https://img.shields.io/cocoapods/p/RxCodyFire.svg?style=flat)](https://cocoapods.org/pods/RxCodyFire)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Installation
 
-RxCodyFire is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+via [CocoaPods](https://cocoapods.org)
 
 ```ruby
 pod 'RxCodyFire'
