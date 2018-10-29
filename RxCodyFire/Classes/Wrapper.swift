@@ -4,7 +4,7 @@ import RxSwift
 extension APIRequest {
     public var observable: Observable<ResultType> {
         return Observable.create { observer in
-            self.onKnownError { error in
+            self.onError { error in
                 observer.onError(error)
                 observer.onCompleted()
             }.onSuccess { result in
