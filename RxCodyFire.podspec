@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RxCodyFire'
-  s.version          = '1.0.0'
+  s.version          = '1.1.0'
   s.summary          = 'CodyFire wrapper for RxSwift 🔥'
 
 # This description is used to generate tags and improve search results.
