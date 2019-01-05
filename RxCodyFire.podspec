@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RxCodyFire'
-  s.version          = '1.1.0'
+  s.version          = '1.2.0'
   s.summary          = 'CodyFire wrapper for RxSwift 🔥'
 
 # This description is used to generate tags and improve search results.
@@ -37,8 +37,8 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'CodyFire'
-  s.dependency 'RxSwift', '~> 4.3.1'
-  s.dependency 'RxCocoa', '~> 4.3.1'
+  s.dependency 'RxSwift'
+  s.dependency 'RxCocoa'
 
-  s.swift_version = '4.1.2'
+  s.swift_version = '4.2'
 end
