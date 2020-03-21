@@ -4,6 +4,8 @@
 [![License](https://img.shields.io/cocoapods/l/RxCodyFire.svg?style=flat)](https://cocoapods.org/pods/RxCodyFire)
 [![Platform](https://img.shields.io/cocoapods/p/RxCodyFire.svg?style=flat)](https://cocoapods.org/pods/RxCodyFire)
 
+<p><a href="https://discord.gg/q5wCPYv">SWIFT.STREAM COMMUNITY IN DISCORD</a></p>
+
 ## Installation
 
 via [CocoaPods](https://cocoapods.org)
