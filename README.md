@@ -3,8 +3,7 @@
 [![Version](https://img.shields.io/cocoapods/v/RxCodyFire.svg?style=flat)](https://cocoapods.org/pods/RxCodyFire)
 [![License](https://img.shields.io/cocoapods/l/RxCodyFire.svg?style=flat)](https://cocoapods.org/pods/RxCodyFire)
 [![Platform](https://img.shields.io/cocoapods/p/RxCodyFire.svg?style=flat)](https://cocoapods.org/pods/RxCodyFire)
-
-<p><a href="https://discord.gg/q5wCPYv">SWIFT.STREAM COMMUNITY IN DISCORD</a></p>
+[![Swift.Stream](https://img.shields.io/badge/CLICK_HERE_TO_DISCUSS_THIS_LIB-SWIFT.STREAM-FD6F32.svg)](https://discord.gg/q5wCPYv)
 
 ## Installation
 
